@@ -27,9 +27,9 @@ function Content() {
     <div className="menu-card">
         <img src={imageThree} alt="egg" className="h-full rounded mb-20 shadow"/>
         <div className="center-content">
-        <h2 className="text-2xl mb-2">Egg Salata</h2>
-        <p className="mb-2">çıtır çıtır, lezzetli ve besleyici</p>
-        <span>18TL</span>
+        <h2 className="text-2xl mb-2">Egg </h2>
+        <p className="mb-2">lezzetli ve besleyici</p>
+        <span>20TL</span>
         </div>
         
     </div>
